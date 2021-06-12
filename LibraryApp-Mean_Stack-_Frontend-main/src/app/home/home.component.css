@@ -1,0 +1,22 @@
+body {
+    background-image: url('https://www.detroitlabs.com/wp-content/uploads/2018/02/alfons-morales-YLSwjSy7stw-unsplash.jpg');
+    font-family: Poppins, sans-serif;
+}
+
+h2 {
+    padding: 1%;
+    padding-top: 2%;
+    text-align: center;
+    font-size: 30px;
+}
+
+h4 {
+    padding-left: 5%;
+    color: ivory;
+}
+
+h5 {
+    color: ivory;
+    padding: 4%;
+    text-align: center;
+}
